@@ -1,4 +1,5 @@
 Simple Calculator 🧮
+
 Este é um projeto de uma calculadora simples escrita em Python. Ele permite que o usuário insira dois números e escolha uma operação matemática básica (adição, subtração, multiplicação ou divisão), exibindo o resultado.
 
 Funcionalidades 🚀
